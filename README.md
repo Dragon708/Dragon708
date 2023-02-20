@@ -20,7 +20,7 @@ Skills:
 <picture>
 <img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="30px" height="30px" />    
 </picture>
-**HTML5 **
+**HTML5
     
 
 CSS3
