@@ -21,7 +21,7 @@ Skills:
 <img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
 </picture>
 <picture>
-    <label>HTML</label>
+    <h1>HTML</h1>
 <img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
 </picture>
 <picture>
