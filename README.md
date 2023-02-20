@@ -16,7 +16,11 @@ Entre Mis Habilidades Blandas Se Encuentran:
     
 Skills:
 
-HTML5 ![imagen](https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png)
+HTML5 
+<picture>
+<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="100px" height="100px" />    
+</picture>
+    
 
 CSS3
 JavaScript
