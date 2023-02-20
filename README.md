@@ -16,23 +16,7 @@ Entre Mis Habilidades Blandas Se Encuentran:
     
 Skills:
 
-<h1>HTML</h1>
-<picture>
-<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
-</picture>
-<picture>
-    
-<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
-</picture>
-<picture>
-<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
-</picture>
-<picture>
-<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
-</picture>
-
-    
-
+HTML
 CSS3
 JavaScript
 Dart
