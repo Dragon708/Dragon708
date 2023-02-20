@@ -16,7 +16,8 @@ Entre Mis Habilidades Blandas Se Encuentran:
     
 Skills:
 
-HTML5
+HTML5 ![imagen](https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png)
+
 CSS3
 JavaScript
 Dart
