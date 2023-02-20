@@ -18,9 +18,19 @@ Skills:
 
 
 <picture>
-<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="30px" height="30px" />    
+<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
 </picture>
-### HTML5
+<picture>
+    <label>HTML</label>
+<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
+</picture>
+<picture>
+<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
+</picture>
+<picture>
+<img src="https://user-images.githubusercontent.com/112759083/220166179-5366c87f-2554-4f43-b26f-03fbe2f01990.png" width="50px" height="50px" />    
+</picture>
+
     
 
 CSS3
