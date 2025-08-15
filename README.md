@@ -1,21 +1,21 @@
 ## 👋 About Me
 
-**Hi, I'm Jorge Alfredo González Molina**, a senior web developer with a strong track record in designing and building custom digital solutions. I specialize in creating robust, scalable applications and intuitive user interfaces that drive real value for businesses.
+As a senior web developer, I focus on designing and delivering custom digital solutions that are scalable, intuitive, and built to last. My experience spans modern frontend and backend technologies, with a strong emphasis on clean architecture, performance, and user-centered design.
 
-With **recognized certifications** and deep expertise in **modern frontend and backend technologies**, I lead projects using **agile methodologies** and **industry best practices**. My work consistently focuses on:
+Projects I lead are guided by agile methodologies and industry best practices, with consistent attention to:
 
-- 🚀 Delivering high-performance web applications  
-- 🧩 Architecting scalable systems with clean, maintainable code  
-- 🎯 Enhancing user experience through thoughtful UI/UX design  
-- 🔐 Implementing secure, reliable integrations and APIs  
-- 📈 Driving digital transformation across diverse industries
+- 🚀 Building high-performance web applications  
+- 🧩 Designing scalable systems with maintainable code  
+- 🎯 Improving user experience through thoughtful UI/UX  
+- 🔐 Developing secure, reliable integrations and APIs  
+- 📈 Supporting digital transformation across industries  
 
-I'm passionate about **technical excellence**, **continuous improvement**, and **collaborative problem-solving**. Whether it's launching a new product, optimizing workflows, or integrating AI-powered features, I bring precision, creativity, and strategic thinking to every project.
+I value technical excellence, continuous learning, and collaborative problem-solving. Whether launching new products, streamlining workflows, or integrating AI-powered features, the goal is always to deliver meaningful impact through smart technology.
 
 ---
 
 ### 💼 Looking Ahead
 
-I'm currently exploring new opportunities where I can contribute to impactful projects, grow alongside talented teams, and help organizations scale through smart technology.
+Open to new opportunities that involve impactful projects, strong team collaboration, and scalable innovation.
 
-Let’s connect and build something great together.
+If you're building something ambitious, let’s connect and explore how we can make it thrive—together.
