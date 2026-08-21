@@ -66,8 +66,12 @@ My core stack combines modern frontend development with solid backend engineerin
 ### GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dragon708&show_icons=true&theme=tokyonight&hide_border=true" alt="Jorge's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon708&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dragon708&theme=github_dark" alt="Jorge's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragon708&theme=github_dark" alt="Jorge's repositories by language" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragon708&theme=github_dark" alt="Jorge's GitHub contribution activity" />
 </p>
 
 ---
