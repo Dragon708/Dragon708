@@ -34,10 +34,12 @@ My core stack combines modern frontend development with solid backend engineerin
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| **Argus Legal AI** | Multi-tenant LegalTech SaaS for law firms with AI-assisted case management, legal document generation, PDF OCR, and semantic jurisprudence search | Next.js 16, React, TypeScript, Supabase, PostgreSQL, Pinecone, OpenAI, Gemini, Vercel AI SDK, Langfuse |
+| **CommerceCraft** | Complex e-commerce interfaces, commerce tooling, and AI integrations for a platform focused on launching branded online stores faster | React, Next.js, TypeScript, AI/LLM integrations |
+| **GAP / Skipa** | Internal project management platform delivered for Grupo Aeroportuario del Pacifico, including business workflows and maintainable legacy-system integration | .NET MVC, C#, Razor Pages, AJAX, jQuery, Bootstrap |
 | **A-pululu E-commerce** | Full e-commerce experience with payments, REST API, database, and email workflows | React, Tailwind, NextUI, Express, PostgreSQL, BMSPay, ZeptoMail, Azure |
 | **A-pululu Delivery App** | Mobile app for delivery operations and field workflows | React Native, Tailwind, React Native Paper |
 | **Vet Locator** | Location-based product with frontend, backend API, and cloud deployment | Next.js, Tailwind, LocationIQ, .NET 8, AWS Amplify |
-| **Project Gap Skipa** | Internal project management system for an airport company | .NET MVC, Razor Pages, AJAX, jQuery, Bootstrap |
 | **Angular All in One** | Multi-tool Angular app with weather, piano game, currency converter, appointments, and news search | Angular, TypeScript, Tailwind, Angular Material |
 | **Dragon Cool Repair** | Conversion-focused landing page for a refrigeration repair business | React, Tailwind, Framer Motion, Netlify |
 
