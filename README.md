@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full-Stack Developer | React, Next.js, React Native & .NET</h3>
 
 <p align="center">
-  <a href="https://jorge-gonzalez.netlify.app/">Portfolio</a> ·
+  <a href="https://jorge.dsmarts.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/jorge-a-gonz%C3%A1lez-molina-330337251/">LinkedIn</a> ·
   <a href="https://github.com/Dragon708">GitHub</a>
 </p>
